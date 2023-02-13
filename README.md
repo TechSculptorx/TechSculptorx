@@ -6,7 +6,7 @@
 
 
 - 🎓 &nbsp; Studying Bachelor Of Computer Application.
-- 🌱 &nbsp; Learning more about JavaScript.
+- 🌱 &nbsp; Learning more about three.js.
 - :smiling_imp: &nbsp; Currently I creating clone website.
 <br/>
 
@@ -18,7 +18,7 @@
 <br />
 
 <a href="https://github.com/BAGGERx2055">
-  <img  width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=BAGGERx2055&theme=blue-green&show_icons=true" />
+  <img  width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=devilx2055&theme=blue-green&show_icons=true" />
   
-  <img  width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAGGERx2055&theme=blue-green&layout=compact" />
+  <img  width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilx2055&theme=blue-green&layout=compact" />
 </a>

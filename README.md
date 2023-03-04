@@ -6,7 +6,7 @@
 
 
 - 🎓 &nbsp; Studying Bachelor Of Computer Application.
-- 🌱 &nbsp; Learning more about three.js.
+- 🌱 &nbsp; Learning more about webGL and shaders.
 - :smiling_imp: &nbsp; Currently I creating clone website.
 <br/>
 
